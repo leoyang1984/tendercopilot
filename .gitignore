@@ -1,0 +1,19 @@
+# 用户工作区文件（招投标项目产物，含机密内容）
+requirements/
+cases/
+output/
+reference.docx
+_style_guide.md
+
+# Pandoc 生成的临时 Markdown 副本
+*.docx.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store

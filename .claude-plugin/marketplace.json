@@ -1,0 +1,32 @@
+{
+  "name": "tendercopilot",
+  "owner": {
+    "name": "leoyang1984",
+    "url": "https://github.com/leoyang1984"
+  },
+  "metadata": {
+    "description": "建筑/工程咨询标书编写与查重 Claude Code 插件",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "tendercopilot",
+      "description": "面向建筑/工程咨询从业者的标书全流程编写与文档查重工具。提供 /tendercopilot:bid-write 和 /tendercopilot:check-plagiarism 两个命令。",
+      "author": {
+        "name": "leoyang1984",
+        "url": "https://github.com/leoyang1984"
+      },
+      "homepage": "https://github.com/leoyang1984/tendercopilot",
+      "tags": [
+        "bid-writing",
+        "procurement",
+        "architecture",
+        "plagiarism-check",
+        "建筑",
+        "标书",
+        "查重"
+      ],
+      "source": "./plugin"
+    }
+  ]
+}
