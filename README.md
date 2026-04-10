@@ -101,4 +101,6 @@ Claude 会询问目标文件夹路径，扫描其中所有 `.docx` 文件，输�
 
 ## 许可证
 
-MIT © [leoyang1984](https://github.com/leoyang1984)
+本项目仅供**个人学习和教育用途**使用，**不允许商业使用**。
+
+详见 [LICENSE](./LICENSE) 文件。如需商业授权，请通过 [GitHub](https://github.com/leoyang1984) 联系作者。
